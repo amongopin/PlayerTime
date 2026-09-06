@@ -50,7 +50,7 @@ Unlike simple counters, **PlayerTime** breaks down player activity into detailed
 
 ## 👥 Support & Bug Reports
 
-If you encounter any bugs, errors, or have suggestions for new features, please open an official ticket in our [GitHub Issues](https://github.com/amongopin/PlayerTime/issues) tracker.
+If you encounter any bugs, errors, or have suggestions for new features, please open an official ticket in our [Issues](https://github.com/amongopin/PlayerTime/issues) tracker.
 
 ---
 
