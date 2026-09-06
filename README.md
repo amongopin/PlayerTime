@@ -13,7 +13,7 @@ Unlike simple counters, **PlayerTime** breaks down player activity into detailed
 * 💾 **Offline Caching:** Saves and reads data for offline players without causing single-tick server lag.
 * 🔄 **Automatic Resets:** Smart internal date tracking automatically resets daily, weekly, monthly, and yearly stats exactly when midnight strikes.
 * 🔒 **Asynchronous Saving:** Periodically flushes all player statistics to `userdata.yml` safely in a background thread.
-* 🛰️ **Built-in Updater:** Features an asynchronous Update Checker that links directly to the GitHub Releases API.
+* 🛰️ **Built-in Updater:** Features an asynchronous Update Checker that links directly to the GitHub Releases.
 
 ---
 
