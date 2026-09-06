@@ -19,7 +19,7 @@ Unlike simple counters, **PlayerTime** breaks down player activity into detailed
 
 ## 🎮 Commands & Aliases
 
-* `/playertime` *(Alias: `/pt`)* — Shows plugin information and correct command usage.
+* `/playertime` — Shows plugin information and correct command usage.
 * `/playertime <player>` — Displays a full detailed playtime breakdown for the specified player.
 * `/playertime <player> <day/week/month/year/all>` — Checks a specific time period for a player.
 
