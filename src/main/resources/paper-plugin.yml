@@ -1,0 +1,6 @@
+name: PlayerTime
+version: '1.0'
+main: com.amongopin.playertime.PlayerTime
+api-version: '26.2'
+author: amongopin
+description: Detailed playtime tracking plugin developed by amongopin for Paper 26.2!
