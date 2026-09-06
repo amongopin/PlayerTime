@@ -51,4 +51,9 @@ Unlike simple counters, **PlayerTime** breaks down player activity into detailed
 ## 👥 Support & Bug Reports
 
 If you encounter any bugs, errors, or have suggestions for new features, please open an official ticket in our [GitHub Issues](https://github.com/amongopin/PlayerTime/issues) tracker.
-WARNING! THIS PLUGIN WAS CREATED ONLY FOR 26.2 PAPER! DON'T TRY TO USE THIS PLUGIN ON OTHER VERSIONS OF THE PAPER!!!
+
+---
+
+## ❗ WARNING
+
+THIS PLUGIN WAS CREATED ONLY FOR 26.2 PAPER! DO NOT TRY TO USE THIS PLUGIN ON OTHER VERSIONS OF THE PAPER!!!
