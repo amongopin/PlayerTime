@@ -1,6 +1,6 @@
 # PlayerTime ⏱️
 
-An advanced, high-performance, and lightweight playtime tracking plugin built specifically for modern Minecraft servers running **Paper 26.2** (or higher) and **Java 25**.
+An advanced, high-performance, and lightweight playtime tracking plugin built specifically for modern Minecraft servers running **Paper 26.2**, **Purpur 26.2** and **Java 25**.
 
 Unlike simple counters, **PlayerTime** breaks down player activity into detailed historical periods, allowing server administrators and players to track exactly how much time is spent on the server.
 
@@ -34,7 +34,7 @@ Unlike simple counters, **PlayerTime** breaks down player activity into detailed
 
 ## 📋 Requirements
 
-* **Server Core:** Paper 26.2 build.
+* **Server Core:** Paper 26.2 and Purpur 26.2 builds.
 * **Java Version:** Java 25
 
 ---
@@ -56,4 +56,4 @@ If you encounter any bugs, errors, or have suggestions for new features, please 
 
 ## ❗ WARNING
 
-THIS PLUGIN WAS CREATED ONLY FOR PAPER 26.2! DO NOT TRY TO USE THIS PLUGIN ON OTHER VERSIONS OF THE PAPER, OR YOUR SERVER CAN CRASH!
+THIS PLUGIN WAS CREATED ONLY FOR **PAPER 26.2** AND **PURPUR 26.2** BUILDS! DO NOT TRY TO USE THIS PLUGIN ON OTHER VERSIONS OF THE PAPER, OR YOUR SERVER CAN CRASH!
